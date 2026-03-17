@@ -6,7 +6,7 @@ The goal is to move beyond traditional last-click attribution and evaluate chann
 
 ---
 
-## 🚀 Business Problem
+## Business Problem
 
 Customers interact with multiple marketing channels before converting, but most analytics systems rely on last-click attribution, which assigns full credit to the final interaction.
 
@@ -21,7 +21,7 @@ This project addresses:
 
 ---
 
-## 📊 Approach
+## Approach
 
 The analysis follows a structured workflow:
 
@@ -37,7 +37,7 @@ The analysis follows a structured workflow:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - Organic Search drives the highest traffic and plays a key role in customer acquisition  
 - Referral channels significantly assist conversions in mid-funnel stages  
@@ -47,7 +47,7 @@ The analysis follows a structured workflow:
 
 ---
 
-## 📈 Why This Matters
+## Why This Matters
 
 The analysis demonstrates that relying solely on last-click attribution can lead to suboptimal marketing decisions.
 
@@ -55,7 +55,7 @@ A multi-touch attribution approach provides a more accurate understanding of cha
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Python (Pandas, NumPy)
 - Google Analytics 4 dataset (BigQuery)
@@ -63,4 +63,4 @@ A multi-touch attribution approach provides a more accurate understanding of cha
 
 ---
 
-## 📁 Project Structure
+## Project Structure
