@@ -63,4 +63,6 @@ A multi-touch attribution approach provides a more accurate understanding of cha
 
 ---
 
-## Project Structure
+## Author
+
+Hindavi
